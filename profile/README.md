@@ -6,7 +6,8 @@
 On this page, you will find several repositories from different authors who are or were members of our institute.
 
 
-
+<br>
+<br>  
 
 ## Additional Repos
 Some authors also published their work on their private repos. These are linked in the following.  
@@ -14,5 +15,6 @@ Some authors also published their work on their private repos. These are linked 
 * [motion3d](https://github.com/mhorn11/motion3d) by Markus Horn
 * [deepclr](https://github.com/mhorn11/deepclr) by Markus Horn
 * [semantic_spray_dataset](https://github.com/aldipiroli/semantic_spray_dataset) by Aldi Piroli
+* [imviz](https://github.com/joruof/imviz) by Jona Ruof
 
 
