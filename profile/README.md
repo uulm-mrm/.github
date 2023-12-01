@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/uulm-mrm/.github/blob/main/imgs/Logo_uulm_Vorlage_100mm_schwarz.png" width="400">
 <img src="https://github.com/uulm-mrm/.github/blob/main/imgs/Logo_MRM_Text-breit-en.png" width="300">
 
-# Institute of Measurement and Control, Ulm University
+# Institute of Measurement, Control and Microtechnology Ulm University
 ## Intro
 On this page, you will find several repositories from different authors who are or were members of our institute.
 
