@@ -19,4 +19,5 @@ Some authors also published their work on their private repos. These are linked 
 * [MGNet](https://github.com/markusschoen/MGNet) by Markus Schön
 * [RT-K-Net](https://github.com/markusschoen/RT-K-Net) by Markus Schön
 * [YOLOv5 trained on BDD100k](https://github.com/markusschoen/yolov5) by Markus Schön
+* [clutter-ds](https://github.com/kopp-j/clutter-ds) by Johannes Kopp
 
