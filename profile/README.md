@@ -8,7 +8,7 @@ The following section groups the repos into their respective topics.
 |  Perception |   |
 |---|---|
 |  [semantic_spray_dataset](https://github.com/aldipiroli/semantic_spray_dataset) |   |
-|  [clutter-ds](https://github.com/uulm-mrm/clutter-ds) |   |
+|  [clutter-ds](https://github.com/uulm-mrm/clutter-ds) | Label Generation for a Radar Clutter Data Set |
 | [yolov5](https://github.com/uulm-mrm/yolov5) |  |
 |  [RT-K-Net](https://github.com/uulm-mrm/RT-K-Net)|   |
 | [MGNet](https://github.com/uulm-mrm/MGNet) |   |
