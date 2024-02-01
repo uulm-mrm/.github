@@ -15,5 +15,3 @@ Some authors also published their work on their private repos. These are linked 
 * [deepclr](https://github.com/mhorn11/deepclr) by Markus Horn
 * [semantic_spray_dataset](https://github.com/aldipiroli/semantic_spray_dataset) by Aldi Piroli
 * [imviz](https://github.com/joruof/imviz) by Jona Ruof
-* [clutter-ds](https://github.com/kopp-j/clutter-ds) by Johannes Kopp
-
