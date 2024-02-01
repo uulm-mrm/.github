@@ -36,11 +36,9 @@ The following section groups the repos into their respective topics.
 - [imviz](https://github.com/joruof/imviz)
 - [ros2_def](https://github.com/uulm-mrm/ros2_def)
 
-<br>
-<br>  
 
-## Additional Repos
-Some authors also published their work on their private repos. These are linked in the following.  
+## External Repos
+Some authors also published their work in their private repositories. These are linked in the following.  
 * [motion3d](https://github.com/mhorn11/motion3d) by Markus Horn
 * [deepclr](https://github.com/mhorn11/deepclr) by Markus Horn
 * [semantic_spray_dataset](https://github.com/aldipiroli/semantic_spray_dataset) by Aldi Piroli
