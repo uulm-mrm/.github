@@ -16,7 +16,7 @@ The following section groups the repos into their respective topics.
 |  **Calibration** |   |
 |  [excalibur](https://github.com/uulm-mrm/excalibur)|   |
 | [deepclr](https://github.com/mhorn11/deepclr) |   |
-|  [motion3d](https://github.com/mhorn11/motion3d)|   |
+|  [motion3d](https://github.com/mhorn11/motion3d)| Handling, converting, and storing 3D motions and poses.  |
 |  [motion_based_calibration](https://github.com/uulm-mrm/motion_based_calibration)|   |
 |  |  |
 |  **Planning** |  |
