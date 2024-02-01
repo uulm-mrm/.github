@@ -8,7 +8,7 @@ The following section groups the repos into their respective topics.
 ## Topic
 ### Perception
 - [semantic_spray_dataset](https://github.com/aldipiroli/semantic_spray_dataset)
-- [cludder-ds](https://github.com/uulm-mrm/clutter-ds)
+- [clutter-ds](https://github.com/uulm-mrm/clutter-ds)
 - [yolov5](https://github.com/uulm-mrm/yolov5)
 - [RT-K-Net](https://github.com/uulm-mrm/RT-K-Net)
 - [MGNet](https://github.com/uulm-mrm/MGNet)
