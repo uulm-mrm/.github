@@ -8,10 +8,10 @@ The following section groups the repos into their respective topics.
 |  Perception |   |
 |---|---|
 |  [semantic_spray_dataset](https://github.com/aldipiroli/semantic_spray_dataset) |   |
-|  [clutter-ds](https://github.com/uulm-mrm/clutter-ds) | Label Generation for a Radar Clutter Data Set |
-| [yolov5](https://github.com/uulm-mrm/yolov5) |  |
-|  [RT-K-Net](https://github.com/uulm-mrm/RT-K-Net)|   |
-| [MGNet](https://github.com/uulm-mrm/MGNet) |   |
+|  [clutter-ds](https://github.com/uulm-mrm/clutter-ds) | Label Generation for a Radar Clutter Data Set. |
+| [yolov5](https://github.com/uulm-mrm/yolov5) | YOLOv5 🚀 trained on BDD100k |
+|  [RT-K-Net](https://github.com/uulm-mrm/RT-K-Net)| Revisiting K-Net for Real-Time Panoptic Segmentation. |
+| [MGNet](https://github.com/uulm-mrm/MGNet) | Monocular Geometric Scene Understanding for Autonomous Driving. |
 |  |  |
 |  **Calibration** |   |
 |  [excalibur](https://github.com/uulm-mrm/excalibur)|   |
@@ -32,7 +32,7 @@ The following section groups the repos into their respective topics.
 | [git_hooks](https://github.com/uulm-mrm/git_hooks) |   |
 | [imviz](https://github.com/joruof/imviz)|   |
 | [ros2_def](https://github.com/uulm-mrm/ros2_def) |   |
-| [aduulm_dataset_tools](https://github.com/uulm-mrm/aduulm_dataset_tools) |   |
+| [aduulm_dataset_tools](https://github.com/uulm-mrm/aduulm_dataset_tools) | Tools to process data from the ADUULM dataset. |
 
 
 ## External Repos
