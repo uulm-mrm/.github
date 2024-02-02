@@ -20,6 +20,7 @@ The following section groups the repos into their respective topics.
 |  |  |
 |  **Planning** |  |
 |   [guided-extended-hybrid-astar](https://github.com/uulm-mrm/guided-extended-hybrid-astar) |  Hybrid-A* path planning with efficient early stopping and extended motion capabilities   |
+|  [tpl](https://github.com/joruof/tpl) | Optimisation based trajectory planning |
 |  |  |
 | **Communication** |  |
 | [v2x_etsi_asn1](https://github.com/uulm-mrm/v2x_etsi_asn1) |  Transmitting UPER ASN.1 encoded ETSI messages over AMQP connections  |
@@ -40,3 +41,4 @@ Some authors also published their work in their private repositories. These are 
 * [deepclr](https://github.com/mhorn11/deepclr) by Markus Horn
 * [semantic_spray_dataset](https://github.com/aldipiroli/semantic_spray_dataset) by Aldi Piroli
 * [imviz](https://github.com/joruof/imviz) by Jona Ruof
+* [tpl](https://github.com/joruof/tpl) by Jona Ruof
