@@ -1,5 +1,5 @@
 <img align="right" src="https://github.com/uulm-mrm/.github/blob/main/imgs/Logo_uulm_Vorlage_100mm_schwarz.png" width="400">
-<img src="https://github.com/uulm-mrm/.github/blob/main/imgs/Logo_MRM_Text-breit-en.png" width="300">
+<img src="https://github.com/uulm-mrm/.github/blob/main/imgs/Logo_MRM_Text-breit-en_white.png" width="300">
 
 # Institute of Measurement, Control and Microtechnology <br>Ulm University
 Welcome to the main page of our institute. Here, you will find several repositories which present the methods derived in the research projects of our institute.
