@@ -39,6 +39,5 @@ The following section groups the repos into their respective topics.
 Some authors also published their work in their private repositories. These are linked in the following.  
 * [motion3d](https://github.com/mhorn11/motion3d) by Markus Horn
 * [deepclr](https://github.com/mhorn11/deepclr) by Markus Horn
-* [semantic_spray_dataset](https://github.com/aldipiroli/semantic_spray_dataset) by Aldi Piroli
 * [imviz](https://github.com/joruof/imviz) by Jona Ruof
 * [tpl](https://github.com/joruof/tpl) by Jona Ruof
