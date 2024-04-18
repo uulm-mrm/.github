@@ -5,8 +5,9 @@
 Welcome to the main page of our institute. Here, you will find several repositories that present the methods derived in the research projects of our institute.
 The following section groups the repos into their respective topics.
 
-|  Perception |   |
+| Repository | Description |
 |---|---|
+|  **Perception** |   |
 |  [semantic_spray_dataset](https://github.com/aldipiroli/semantic_spray_dataset) | Semantic labels for a subset of the Road Spray dataset, containing vehicles on wet surfaces  |
 |  [clutter-ds](https://github.com/uulm-mrm/clutter-ds) | Label Generation for a Radar Clutter Data Set. |
 | [yolov5](https://github.com/uulm-mrm/yolov5) | YOLOv5 🚀 trained on BDD100k |
@@ -36,8 +37,7 @@ The following section groups the repos into their respective topics.
 
 
 ## External Repos
-Some authors also published their work in their private repositories. These are linked in the following.  
-* [motion3d](https://github.com/mhorn11/motion3d) by Markus Horn
-* [deepclr](https://github.com/mhorn11/deepclr) by Markus Horn
-* [imviz](https://github.com/joruof/imviz) by Jona Ruof
-* [tpl](https://github.com/joruof/tpl) by Jona Ruof
+Some members of our institute have also published impressive open-source software prior to their employment at our institute, which we proudly present here
+| Repository | Description |
+|---|---|
+| [dynamic-occupancy-grid-map](https://github.com/TheCodez/dynamic-occupancy-grid-map) | Implementation of "A Random Finite Set Approach for Dynamic Occupancy Grid Maps with Real-Time Application" |
