@@ -25,6 +25,7 @@ The following section groups the repos into their respective topics.
 |  |  |
 | **Communication** |  |
 | [v2x_etsi_asn1](https://github.com/uulm-mrm/v2x_etsi_asn1) |  Transmitting UPER ASN.1 encoded ETSI messages over AMQP connections  |
+| [amqp_topic_transceiver](https://github.com/uulm-mrm/amqp_topic_transceiver) | Transmitting binary ROS2 messages over AMQP connections |
 | [image_transport_plugins](https://github.com/uulm-mrm/image_transport_plugins) | Plugins for publishing and subscribing to sensor_msgs/Image topics in representations other than raw pixel data.   |
 |  |  |
 | **Utils**  |   |
