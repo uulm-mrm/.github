@@ -29,7 +29,8 @@ The following section groups the repos into their respective topics.
 | [image_transport_plugins](https://github.com/uulm-mrm/image_transport_plugins) | Plugins for publishing and subscribing to sensor_msgs/Image topics in representations other than raw pixel data.   |
 |  |  |
 | **Utils**  |   |
-| [aduulm_logger](https://github.com/uulm-mrm/aduulm_logger) |  Logging macros for C/C++ projects. It also provides a Python library for logging in Python. |
+| [aduulm_launch](https://github.com/uulm-mrm/aduulm_launch) | Launch your ROS nodes using Python launch files, but without weird substitutions and code bloat. |
+| [aduulm_logger](https://github.com/uulm-mrm/aduulm_logger) | Logging macros for C/C++ projects. It also provides a Python library for logging in Python. |
 | [aduulm_cmake_tools](https://github.com/uulm-mrm/aduulm_cmake_tools) | Cmake macros simplifying the creation of ROS2 packages and library-only packages  |
 | [git_hooks](https://github.com/uulm-mrm/git_hooks) |  Git hook that can format and check your source files before you commit them to your repository. |
 | [imviz](https://github.com/joruof/imviz)| Pythonic bindings of imgui/implot for visualization   |
