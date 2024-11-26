@@ -13,6 +13,7 @@ The following section groups the repos into their respective topics.
 | [yolov5](https://github.com/uulm-mrm/yolov5) | YOLOv5 🚀 trained on BDD100k |
 |  [RT-K-Net](https://github.com/uulm-mrm/RT-K-Net)| Revisiting K-Net for Real-Time Panoptic Segmentation. |
 | [MGNet](https://github.com/uulm-mrm/MGNet) | Monocular Geometric Scene Understanding for Autonomous Driving. |
+| [mmood3d](https://github.com/uulm-mrm/mmood3d) | Out-of-Distribution Detection for LiDAR-based Object Detection. |
 |  |  |
 |  **Calibration** |   |
 |  [excalibur](https://github.com/uulm-mrm/excalibur)| Python library for extrinsic sensor calibration.  |
