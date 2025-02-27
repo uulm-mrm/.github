@@ -29,6 +29,7 @@ The following section groups the repos into their respective topics.
 | [amqp_topic_transceiver](https://github.com/uulm-mrm/amqp_topic_transceiver) | Transmitting binary ROS2 messages over AMQP connections |
 | [image_transport_plugins](https://github.com/uulm-mrm/image_transport_plugins) | Plugins for publishing and subscribing to sensor_msgs/Image topics in representations other than raw pixel data.   |
 | [multi_tun](https://github.com/uulm-mrm/multi_tun) | Multi-connectivity tunnel: connect two peers via multiple network paths in parallel to lower latency and increase reliability. |
+| [uulm_mcm_etsi](https://github.com/uulm-mrm/uulm_mcm_etsi) | Maneuver Coordination Message definition. |
 |  |  |
 | **Utils**  |   |
 | [aduulm_launch](https://github.com/uulm-mrm/aduulm_launch) | Launch your ROS nodes using Python launch files, but without weird substitutions and code bloat. |
