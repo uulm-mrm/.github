@@ -14,7 +14,7 @@ The following section groups the repos into their respective topics.
 |  [RT-K-Net](https://github.com/uulm-mrm/RT-K-Net)| Revisiting K-Net for Real-Time Panoptic Segmentation. |
 | [MGNet](https://github.com/uulm-mrm/MGNet) | Monocular Geometric Scene Understanding for Autonomous Driving. |
 | [mmood3d](https://github.com/uulm-mrm/mmood3d) | Out-of-Distribution Detection for LiDAR-based Object Detection. |
-| [aduulm_ttb](https://github.com/uulm-mrm/aduulm_ttb) | Model-based Multi-Sensor Multi-Object Tracking Toolbox |
+| [aduulm_ttb](https://github.com/uulm-mrm/aduulm_ttb) | Model-Based Multi-Sensor Multi-Object Tracking Toolbox |
 |  |  |
 |  **Calibration** |   |
 |  [excalibur](https://github.com/uulm-mrm/excalibur)| Python library for extrinsic sensor calibration.  |
