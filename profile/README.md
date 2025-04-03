@@ -24,6 +24,7 @@ The following section groups the repos into their respective topics.
 |  **Planning** |  |
 |   [guided-extended-hybrid-astar](https://github.com/uulm-mrm/guided-extended-hybrid-astar) |  Hybrid-A* path planning with efficient early stopping and extended motion capabilities   |
 |  [tpl](https://github.com/joruof/tpl) | Optimisation based trajectory planning |
+|  [dynamic_objective_mpc](https://github.com/uulm-mrm/dynamic_objective_mpc) | Dynamic Objective MPC for motion planning in corridors and to goal poses in one approach  |
 |  |  |
 | **Communication** |  |
 | [v2x_etsi_asn1](https://github.com/uulm-mrm/v2x_etsi_asn1) |  Transmitting UPER ASN.1 encoded ETSI messages over AMQP connections  |
