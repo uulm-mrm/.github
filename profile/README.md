@@ -42,6 +42,7 @@ The following section groups the repos into their respective topics.
 | [imdash](https://github.com/uulm-mrm/imdash) | Dynamic real-time dashboards with imviz |
 | [ros2_def](https://github.com/uulm-mrm/ros2_def) |  Deterministic Execution Framework for ROS 2  |
 | [aduulm_dataset_tools](https://github.com/uulm-mrm/aduulm_dataset_tools) | Tools to process data from the ADUULM dataset. |
+| [minimal_latency_buffer](https://github.com/uulm-mrm/minimal_latency_in_sequence_buffer) | Adaptive Minimal Latency In-Sequence Ordering for Multi-Channel Data |
 
 
 ## External Repos
